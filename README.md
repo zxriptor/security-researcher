@@ -23,7 +23,7 @@
 
 ### Contest History
 
-| Contest Name                                                                               |   Date   | &nbsp;&nbsp;&nbsp;Rank&nbsp;&nbsp;&nbsp; | Platform  | Highlights                         |
+| Contest Name                                                                               |   Date   | &nbsp;&nbsp;Rank&nbsp;&nbsp; | Platform  | Highlights                         |
 | ------------------------------------------------------------------------------------------ | :------: | ---- | --------- | ---------------------------------- |
 | *[Ethereum Fusaka Upgrade](https://audits.sherlock.xyz/contests/1140)*                     | *Sep 2025* |    |           | *in progress*                      |
 | *[Rezerve Money](https://audits.sherlock.xyz/contests/1134)*                               | *Sep 2025* |    |           | *in progress*                      |
