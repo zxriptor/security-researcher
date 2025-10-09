@@ -4,10 +4,10 @@
 
 # Private Audits
 
-| Project                                             |   Date   | Provider  |                                                            Report                                                             | Highlights                                                     |
-| --------------------------------------------------- | :------: | --------- | :---------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------- |
-| [Spellborne - Abstract](https://www.spellborne.gg/) | Oct 2025 | Shieldify |         [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Spellborne-Security-Review.pdf)          | Solidity, ERC721C NFT with Royalty Enforcement + Token Locking |
-| [Honeypot Finance](https://honeypotfinance.xyz/)    | Sep 2025 | Shieldify | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Honeypot-Finance-NFTStaking-Security-Review.pdf) | Solidity, ERC-20, ERC-721, NFT, Staking                        |
+| Project                                             |   Date   | Provider  |                                                            Report                                                              | Highlights                                             |
+| --------------------------------------------------- | :------: | --------- | :----------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------ |
+| [Spellborne](https://www.spellborne.gg/)            | Oct 2025 | Shieldify | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Spellborne-Security-Review.pdf)                  | Solidity, ERC721C, Royalty Enforcement and Locking     |
+| [Honeypot Finance](https://honeypotfinance.xyz/)    | Sep 2025 | Shieldify | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Honeypot-Finance-NFTStaking-Security-Review.pdf) | Solidity, ERC-20, ERC-721, NFT, Staking                |
 
 
 # Audit Competitions
@@ -25,9 +25,9 @@
 
 | Contest Name                                                                               |   Date   | Rank | Platform  | Highlights                         |
 | ------------------------------------------------------------------------------------------ | :------: | ---- | --------- | ---------------------------------- |
-| *[Ethereum Fusaka Upgrade](https://audits.sherlock.xyz/contests/1140)*                     | *Sep 2025* |      |           | *in progress*                      |
-| *[Rezerve Money](https://audits.sherlock.xyz/contests/1134)*                               | *Sep 2025* |      |           | *in progress*                      |
-| [Allbridge Core Yield](https://audits.sherlock.xyz/contests/1051)                          | Jul 2025 | #3 🥉 | Sherlock  | 1 finding                          |
+| *[Ethereum Fusaka Upgrade](https://audits.sherlock.xyz/contests/1140)*                     | *Sep 2025* |    |           | *in progress*                      |
+| *[Rezerve Money](https://audits.sherlock.xyz/contests/1134)*                               | *Sep 2025* |    |           | *in progress*                      |
+| [Allbridge Core Yield](https://audits.sherlock.xyz/contests/1051)                          | Jul 2025 | #3 🥉 | Sherlock  | 1 finding                         |
 | [Mellow Flexible Vaults](https://audits.sherlock.xyz/contests/964)                         | Jul 2025 | #41  | Sherlock  | 2 findings                         |
 | [Superfluid Locker System](https://audits.sherlock.xyz/contests/968)                       | Jun 2025 | #4   | Sherlock  | 1 finding                          |
 | [LEND](https://audits.sherlock.xyz/contests/908)                                           | May 2025 | #11  | Sherlock  | 10 findings                        |
@@ -37,13 +37,13 @@
 | [Aave v3.3](https://audits.sherlock.xyz/contests/747)                                      | Jan 2025 | #23  | Sherlock  | Airdrop                            |
 | [Allora v0.8.0 Update](https://audits.sherlock.xyz/contests/728)                           | Jan 2025 | #6   | Sherlock  | Private contest, Go/CosmosSDK      |
 | [hmx-orderbook](https://cantina.xyz/competitions/68d65682-ed04-48aa-969d-09a335de3748)     | Jan 2025 | #7   | Cantina   | 1 finding                          |
-| [Ethos Reputation Market Fix Review Contest](https://audits.sherlock.xyz/contests/735)     | Dec 2024 | #2 🥈 | Sherlock  | 1 finding                          |
-| [Mach Finance](https://audits.sherlock.xyz/contests/727)                                   | Dec 2024 | #1 🥇 | Sherlock  | 1 finding                          |
+| [Ethos Reputation Market Fix Review](https://audits.sherlock.xyz/contests/735)             | Dec 2024 | #2 🥈 | Sherlock  | 1 finding                         |
+| [Mach Finance](https://audits.sherlock.xyz/contests/727)                                   | Dec 2024 | #1 🥇 | Sherlock  | 1 finding                         |
 | [juicebox-monorepo](https://cantina.xyz/competitions/8d7bdfb9-cf19-4294-95d0-763af5d425b4) | Dec 2024 | #8   | Cantina   | 1 finding                          |
-| [Oku's New Order Types Contract Contest](https://audits.sherlock.xyz/contests/641)         | Dec 2024 | #18  | Sherlock  | 6 findings                         |
+| [Oku's New Order Types Contract](https://audits.sherlock.xyz/contests/641)                 | Dec 2024 | #18  | Sherlock  | 6 findings                         |
 | [Lambo.win](https://code4rena.com/audits/2024-12-lambo-win)                                | Dec 2024 | #29  | Code4rena | 3 findings                         |
-| [Ethos Network Financial Contracts](https://audits.sherlock.xyz/contests/675)              | Nov 2024 | #2 🥈 | Sherlock  | 5 findings                         |
-| [Superfluid Locker System](https://audits.sherlock.xyz/contests/648)                       | Nov 2024 | #3 🥉 | Sherlock  | 1 finding                          |
+| [Ethos Network Financial Contracts](https://audits.sherlock.xyz/contests/675)              | Nov 2024 | #2 🥈 | Sherlock  | 5 findings                        |
+| [Superfluid Locker System](https://audits.sherlock.xyz/contests/648)                       | Nov 2024 | #3 🥉 | Sherlock  | 1 finding                         |
 | [Concrete](https://code4rena.com/audits/2024-11-concrete)                                  | Nov 2024 | #71  | Code4rena | 6 findings                         |
 | [Dria](https://codehawks.cyfrin.io/contests/cm2ooiwzk0003mx0tt5wiu88x)                     | Oct 2024 | #20  | CodeHawks | 6 findings                         |
 | [Flow](https://codehawks.cyfrin.io/contests/cm2eo5lck000153fxa1izszg2)                     | Oct 2024 | #8   | CodeHawks | 1 finding                          |
