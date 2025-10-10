@@ -25,7 +25,7 @@
 
 | Contest Name                                                                               | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Rank&nbsp;&nbsp; | Platform  | Highlights                                     |
 | ------------------------------------------------------------------------------------------ | :--------: | ---------------------------- | --------- | ---------------------------------------------- |
-| *[Ethereum Fusaka Upgrade](https://audits.sherlock.xyz/contests/1140)*                     | *Sep 2025* |                              |           | *in progress*                                  |
+| *[Ethereum&nbsp;Fusaka&nbsp;Upgrade](https://audits.sherlock.xyz/contests/1140)*                     | *Sep 2025* |                              |           | *in progress*                                  |
 | *[Rezerve Money](https://audits.sherlock.xyz/contests/1134)*                               | *Sep 2025* |                              |           | *in progress*                                  |
 | [Allbridge Core Yield](https://audits.sherlock.xyz/contests/1051)                          |  Jul 2025  | #3 🥉                         | Sherlock  | 1 finding                                      |
 | [Mellow Flexible Vaults](https://audits.sherlock.xyz/contests/964)                         |  Jul 2025  | #41                          | Sherlock  | 2 findings                                     |
