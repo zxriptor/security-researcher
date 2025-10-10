@@ -35,7 +35,7 @@
 | [SEDA Protocol](https://audits.sherlock.xyz/contests/729)                                  | Feb 2025 | #3 🥉 | Sherlock  | 13 findings (5 solo), Go/CosmosSDK |
 | [Plaza Finance](https://audits.sherlock.xyz/contests/682)                                  | Jan 2025 | #29  | Sherlock  | 6 findings                         |
 | [Aave v3.3](https://audits.sherlock.xyz/contests/747)                                      | Jan 2025 | #23  | Sherlock  | Airdrop                            |
-| [Allora v0.8.0 Update](https://audits.sherlock.xyz/contests/728)                           | Jan 2025 | #6   | Sherlock  | Private contest, Go/CosmosSDK      |
+| [Allora v0.8.0 Update](https://audits.sherlock.xyz/contests/728)                           | Jan 2025 | #6   | Sherlock  | 9 findings, Go/CosmosSDK      |
 | [hmx-orderbook](https://cantina.xyz/competitions/68d65682-ed04-48aa-969d-09a335de3748)     | Jan 2025 | #7   | Cantina   | 1 finding                          |
 | [Ethos Reputation Market Fix Review](https://audits.sherlock.xyz/contests/735)             | Dec 2024 | #2 🥈 | Sherlock  | 1 finding                         |
 | [Mach Finance](https://audits.sherlock.xyz/contests/727)                                   | Dec 2024 | #1 🥇 | Sherlock  | 1 finding                         |
