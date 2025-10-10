@@ -32,10 +32,10 @@
 | [Superfluid Locker System](https://audits.sherlock.xyz/contests/968)                       |  Jun 2025  | #4                           | Sherlock  | 1 finding                                      |
 | [LEND](https://audits.sherlock.xyz/contests/908)                                           |  May 2025  | #11                          | Sherlock  | 10 findings                                    |
 | [Crestal Network](https://audits.sherlock.xyz/contests/755)                                |  Mar 2025  | #6                           | Sherlock  | 3 findings                                     |
-| [SEDA Protocol](https://audits.sherlock.xyz/contests/729)                                  |  Feb 2025  | #3 🥉                         | Sherlock  | 13 findings (5 solo), Go/CosmosSDK             |
+| [SEDA Protocol](https://audits.sherlock.xyz/contests/729)                                  |  Feb 2025  | #3 🥉                         | Sherlock  | 13 findings (5 solo), Go/CosmosSDK, Rust-based contracts, WebAssembly           |
 | [Plaza Finance](https://audits.sherlock.xyz/contests/682)                                  |  Jan 2025  | #29                          | Sherlock  | 6 findings                                     |
 | [Aave v3.3](https://audits.sherlock.xyz/contests/747)                                      |  Jan 2025  | #23                          | Sherlock  | Airdrop                                        |
-| [Allora v0.8.0 Update](https://audits.sherlock.xyz/contests/728)                           |  Jan 2025  | #6                           | Sherlock  | 9 findings, Go/CosmosSDK, Rust-based contracts |
+| [Allora v0.8.0 Update](https://audits.sherlock.xyz/contests/728)                           |  Jan 2025  | #6                           | Sherlock  | 9 findings, Go/CosmosSDK |
 | [hmx-orderbook](https://cantina.xyz/competitions/68d65682-ed04-48aa-969d-09a335de3748)     |  Jan 2025  | #7                           | Cantina   | 1 finding                                      |
 | [Ethos Reputation Market Fix Review](https://audits.sherlock.xyz/contests/735)             |  Dec 2024  | #2 🥈                         | Sherlock  | 1 finding                                      |
 | [Mach Finance](https://audits.sherlock.xyz/contests/727)                                   |  Dec 2024  | #1 🥇                         | Sherlock  | 1 finding                                      |
