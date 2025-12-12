@@ -16,11 +16,11 @@
 
 ### Issues Statistics
 
-**High Severity:** 34 Total • **Medium Severity:** 5 Solo / 37 Total
+**High Severity:** 43 Total • **Medium Severity:** 5 Solo / 43 Total
 
 ### Achievements
 
-🥇 1st Place (1x) • 🥈 2nd Place (2x) • 🥉 3rd Place (3x) • 12 times in Top-10 • 30+ contests total
+🥇 1st Place (1x) • 🥈 2nd Place (2x) • 🥉 3rd Place (3x) • 13 times in Top-10 • 30+ contests total
 
 
 ### Contest History
@@ -28,7 +28,7 @@
 | Contest Name                                                                               | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Rank&nbsp;&nbsp; | Platform  | Highlights                                                           |
 | ------------------------------------------------------------------------------------------ | :--------------------------------------------------: | ---------------------------- | --------- | -------------------------------------------------------------------- |
 | *[Ethereum&nbsp;Fusaka&nbsp;Upgrade](https://audits.sherlock.xyz/contests/1140)*           |                      *Sep 2025*                      |                              | Sherlock  | *In progress*. Ethereum Infrastructure                               |
-| *[Rezerve Money](https://audits.sherlock.xyz/contests/1134)*                               |                      *Sep 2025*                      |                              | Sherlock  | *In progress*. Vaults, Bonding, Staking, Rebases, Cross-chain        |
+| [Rezerve Money](https://audits.sherlock.xyz/contests/1134)                                 |                      Sep 2025                        |  **#7**                       | Sherlock  |  **Top-10 finish.** Vaults, Bonding, Staking, Rebases, Cross-chain        |
 | [Allbridge Core Yield](https://audits.sherlock.xyz/contests/1051)                          |                       Jul 2025                       | **#3** 🥉                     | Sherlock  | **3rd Place.** Cross-chain bridge, Stablecoin                        |
 | [Mellow Flexible Vaults](https://audits.sherlock.xyz/contests/964)                         |                       Jul 2025                       | #41                          | Sherlock  | Vaults                                                               |
 | [Superfluid Locker System](https://audits.sherlock.xyz/contests/968)                       |                       Jun 2025                       | **#4**                       | Sherlock  | **Top-10 finish.** Token streaming                                   |
