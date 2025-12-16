@@ -16,7 +16,7 @@
 
 ### Issues Statistics
 
-**High Severity:** 43 Total • **Medium Severity:** 5 Solo / 43 Total
+**High Severity:** 51 Total • **Medium Severity:** 5 Solo / 52 Total
 
 ### Achievements
 
