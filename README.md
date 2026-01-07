@@ -6,6 +6,7 @@
 
 | Project                                          |   Date   | Provider  |                                                            Report                                                             | Highlights                                         |
 | ------------------------------------------------ | :------: | --------- | :---------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------- |
+| [Pear Protocol](https://www.pear.garden/)        | Nov 2025 | Shieldify | Soon | Solidity, Hyperliquid, ERC-4626 Vault |
 | [Spellborne](https://www.spellborne.gg/)         | Nov 2025 | Shieldify | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Spellborne-Season2-Airdrop-Security-Review.pdf)  | Solidity, ERC20, Vesting, Airdrops, Merkle Trees   |
 | [Pudgy Strategy](https://pudgystrategy.net/)     | Oct 2025 | Shieldify |        [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PudgyStrategy-Security-Review.pdf)        | Solidity, ERC20, NFT Vaults, Opensea               |
 | [Spellborne](https://www.spellborne.gg/)         | Oct 2025 | Shieldify |         [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Spellborne-Security-Review.pdf)          | Solidity, ERC721C, Royalty Enforcement and Locking |
